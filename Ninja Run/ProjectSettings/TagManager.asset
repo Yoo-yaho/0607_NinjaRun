@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeadZone
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4155241235
+    locked: 0
+  - name: Building
+    uniqueID: 4270081999
+    locked: 0
+  - name: FarMountain
+    uniqueID: 3131785989
+    locked: 0
+  - name: CloseMountain
+    uniqueID: 1408248599
+    locked: 0
+  - name: Middleground
+    uniqueID: 2237184803
+    locked: 0
+  - name: FarBird
+    uniqueID: 3370054271
+    locked: 0
+  - name: Cloud
+    uniqueID: 2457575119
+    locked: 0
+  - name: CloseBird
+    uniqueID: 1073015729
+    locked: 0
+  - name: Foreground
+    uniqueID: 918737195
+    locked: 0
+  - name: Player
+    uniqueID: 2311605717
+    locked: 0
